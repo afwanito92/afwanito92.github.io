@@ -7,5 +7,4 @@ Les [réglages, c'est par là](../../settings).
 
 [Éditez ce fichier en cliquant ici](../../edit/master/README.md).
 
-on est pas tout seul !
-
+on est pas tout seuls !!!
