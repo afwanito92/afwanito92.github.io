@@ -5,9 +5,9 @@
 	  background-color:grey;
 	  text-shadow: 2px 2px 4px black;
    	  font-style: italic;
-	  background-image:linear-gradient(to left, white, black);
+	  background-image:linear-gradient(to left,black, white);
 	  color:black;
-	  -webkit-border-radius:25px; -moz-border-radius:25px; border-radius:10px;
+	  -webkit-border-radius:100px; -moz-border-radius:100px; border-radius:100px;
  
 }
 	  
