@@ -6,7 +6,7 @@
       border-radius:4px ;
 	  text-shadow: 2px 2px 4px black;
    	  font-style: italic;
-	  
+	  background-image:linear-gradient(to right, white, black);
 	  
 	  
 	  }
@@ -32,7 +32,6 @@ text-decoration: underline;
  }
  
  
- .Degrade
- {
-background-image:linear-gradient(to right, white, black);
-}
+ 
+ 
+
