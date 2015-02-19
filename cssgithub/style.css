@@ -3,12 +3,11 @@
 	  font-family: sans-serif;
 	  border: black thin solid ; 
 	  background-color:grey;
-      border-radius:4px ;
 	  text-shadow: 2px 2px 4px black;
    	  font-style: italic;
 	  background-image:linear-gradient(to right, white, black);
 	  color:black;
-	  -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px;
+	  -webkit-border-radius:25px; -moz-border-radius:25px; border-radius:10px;
  
 }
 	  
