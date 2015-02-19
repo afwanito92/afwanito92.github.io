@@ -8,9 +8,8 @@
    	  font-style: italic;
 	  background-image:linear-gradient(to right, white, black);
 	  color:black;
-      background-color:white;
-     background-image:url(images/image_de_fond.png);
-        background-repeat:no-repeat;
+	  -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px;
+ 
 }
 	  
 	  
