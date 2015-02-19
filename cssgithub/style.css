@@ -7,6 +7,11 @@
 	  text-shadow: 2px 2px 4px black;
    	  font-style: italic;
 	  background-image:linear-gradient(to right, white, black);
+	  color:black;
+      background-color:white;
+     background-image:url(images/image_de_fond.png);
+        background-repeat:no-repeat;
+}
 	  
 	  
 	  }
