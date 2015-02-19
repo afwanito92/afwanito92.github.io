@@ -6,35 +6,33 @@
       border-radius:4px ;
 	  text-shadow: 2px 2px 4px black;
    	  font-style: italic;
-
-      
-
-}
-
-
-	 
-   
-
-	  #white
+	  
+	  
+	  
+	  }
+  #white
 	  {   	color : white;
 	 font-style: italic;
 	 text-decoration: underline;
 	}
+  
   .sa
   {
   color :white;
   font-family: comic sans sm;
   border: 5px white groove;
   box-shadow: 6px 6px 0px black;
- 
- 
-
-  }
+ }
 
   .f
-
  {
     
       text-shadow: 2px 2px 4px black;
 text-decoration: underline;
  }
+ 
+ 
+ .Degrade
+ {
+background-image:linear-gradient(to right, white, black);
+}
